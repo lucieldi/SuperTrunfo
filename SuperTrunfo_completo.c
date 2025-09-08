@@ -4,12 +4,7 @@
 int main()
 {
 
-    printf("   ____                     ______\n");
-    printf("  / ___| _   _ _ __   ___  |__  (_)_ __   ___  ___ ___\n");
-    printf("  | |  _ | | | | '_ \\ / _ \\    / /| | '_ \\ / _ \\/ __/ __|\n");
-    printf("  | |_| || |_| | | | |  __/   / /_| | | | |  __/\\__ \\__ \\\n");
-    printf("   \\____| \\__, |_| |_|\\___|  /____|_|_| |_|\\___||___/___/\n\n");
-
+    
     char Pais1[3], Pais2[3], continuar;
     char NomeDoEstado1[50], NomeDoEstado2[50];
     int Populacao1, Populacao2;
